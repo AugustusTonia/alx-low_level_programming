@@ -1,22 +1,18 @@
 #include "main.h"
-/**
- * print_times_table - prints the n times table
- * @n: number of the times table
- */
-void print_times_table(int n)
-{
-	int l, m, o;
 
-	if (n >= 0 && n <= 15)
-	{
-	for (l = 0; l <= n; l++)
-	{
-	for (m = 0; m <= n; m++)
-	{
-	o = m * n;
-	}
-	}
-	}
+/**
+ * main - check the code.
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    print_times_table(3);
+    _putchar('\n');
+    print_times_table(5);
+    _putchar('\n');
+    print_times_table(98);
+    _putchar('\n');
+    print_times_table(12);  
+    return (0);
 }
-Footer
-© 2022 GitHub, Inc.
