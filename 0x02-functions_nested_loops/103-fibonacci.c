@@ -22,7 +22,3 @@ fib2 = fibsum;
 printf("%.0f\n", tot_sum);
 return (0);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
