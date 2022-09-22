@@ -16,5 +16,3 @@ int main(void)
 	printf("%s", str);
 	return (0);
 }
-Footer
-
