@@ -2,10 +2,10 @@
 
 /**
  * strcat - Concatenates the string pointed to by @src.
- * @dest: A pointer to the string to be concatenated upon.
- * @src: The source string to be appended to @dest.
+ * @dest: points to the string to be concatenated upon.
+ * @src: source string to be appended.
  *
- * Return: A pointer to the destination string @dest.
+ * Return: pointer to the destination string.
  */
 char *strcat(char *dest, const char *src)
 {
