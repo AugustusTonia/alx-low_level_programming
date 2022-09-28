@@ -1,0 +1,1 @@
+Recursion is simply the situation when a fuucntion calls itself. a function can either call itself directly or indirectly. the task teaches us how to use recurtion to solve multiple problems but a base or condition has to be established in other to close a particular loop
