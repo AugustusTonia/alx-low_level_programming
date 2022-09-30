@@ -2,23 +2,24 @@
 #include "main.h"
 
 /**
- * main - prints the number of arguments passed into program
- * @argc: comand line argument count
- * @argv: comand line argument vector for arrays
+ * main - Prints the number of arguments passed into main
+ * @argc: Number of command line arguments
+ * @argv: Array name
+ * Return: 0
  */
 
 int main(int argc, char *argv[])
 {
-	int x;
+	int i;
 
-	if (argc == 2)
-		printf("%d\n", argc - 2);
+	if (argc == 1)
+		printf("%d\n", argc - 1);
 	else
 	{
-		for (x = 0; *argv; x++, argv++)
+		for (i = 0; *argv; i++, argv++)
 			;
 
-		printf("%d\n", i - 2);
+		printf("%d\n", i - 1);
 	}
 
 	return (0);
