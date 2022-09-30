@@ -2,9 +2,10 @@
 #include <stdio.h>
 
 /**
- * main - print program name
- * @argc: comand line argument count
- * @argv: comand line argument vector for arrays
+ * main - Prints the name of the program
+ * @argc: Number of command line arguments
+ * @argv: Array name
+ * Return: 0
  */
 
 int main(int argc, char *argv[])
