@@ -1,13 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/*
- * File: main.h
- * compiled by: Anthonia Akpan
- * Descrp: Header file containing the prototypes of all functions
- *
- */
-
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
@@ -30,3 +23,4 @@ char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 
 #endif
+
