@@ -2,8 +2,8 @@
 
 /**
  * main - function that prints a file name using a predefined 
- * 	macro
- * Return: always 0 (success)
+ * macro
+ * Return: always 0 
  */
 
 int main(void)
@@ -12,3 +12,4 @@ int main(void)
 
 	return (0);
 }
+
