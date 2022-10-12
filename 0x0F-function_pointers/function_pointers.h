@@ -2,10 +2,8 @@
 #define FUNCTION_POINTERS_H
 
 /*
- * File Name: function_pointers.h
- * Purpose: prototypes for learning purposes
- * Desc: Header file for all the  prototypes 
- * used in the 0x0F-function_pointers directory.
+ * Desc: Header file that houses all the  prototypes for all functions
+ *       used in the 0x0E-function_pointers directory.
  */
 
 #include <stdlib.h>
