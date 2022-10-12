@@ -2,7 +2,7 @@
 #define CALC_H
 
 /*
- * Desc: Header file carrying all the structures and
+ * Desc: Header file containing all structures and
  *       prototypes used by the 3-main.c program.
  */
 
